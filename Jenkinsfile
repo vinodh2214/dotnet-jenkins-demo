@@ -39,16 +39,16 @@ pipeline {
                     if (isUnix()) {
                         sh 'dotnet test --logger "trx;LogFileName=test_results.trx"'
                     } else {
-                        bat 'dotnet test --logger "trx;LogFileName=test_results.trx"'
+                        bat 'dotnet test --logger "junit;LogFilePath=test-results.xml"'
                     }
                 }
             }
         }
     }
 
-    post {
-        always {
-            junit '**/*.trx'
-        }
+   post {
+    always {
+        junit '**/test-results.xml'
     }
+}
 }
