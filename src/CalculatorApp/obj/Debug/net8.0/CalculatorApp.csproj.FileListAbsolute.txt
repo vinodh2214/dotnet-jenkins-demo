@@ -9,3 +9,4 @@ C:\Users\JALAGAM\Desktop\dotnet-jenkins-demo\src\CalculatorApp\obj\Debug\net8.0\
 C:\Users\JALAGAM\Desktop\dotnet-jenkins-demo\src\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
 C:\Users\JALAGAM\Desktop\dotnet-jenkins-demo\src\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
 C:\Users\JALAGAM\Desktop\dotnet-jenkins-demo\src\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
+c:\Users\JALAGAM\Desktop\dotnet-jenkins-demo\src\CalculatorApp\obj\Debug\net8.0\CalculatorApp.sourcelink.json

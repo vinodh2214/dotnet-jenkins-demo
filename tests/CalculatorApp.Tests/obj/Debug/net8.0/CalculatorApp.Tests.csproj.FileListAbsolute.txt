@@ -100,3 +100,4 @@ C:\Users\JALAGAM\Desktop\dotnet-jenkins-demo\tests\CalculatorApp.Tests\obj\Debug
 C:\Users\JALAGAM\Desktop\dotnet-jenkins-demo\tests\CalculatorApp.Tests\obj\Debug\net8.0\CalculatorApp.Tests.pdb
 C:\Users\JALAGAM\Desktop\dotnet-jenkins-demo\tests\CalculatorApp.Tests\obj\Debug\net8.0\CalculatorApp.Tests.genruntimeconfig.cache
 C:\Users\JALAGAM\Desktop\dotnet-jenkins-demo\tests\CalculatorApp.Tests\obj\Debug\net8.0\ref\CalculatorApp.Tests.dll
+c:\Users\JALAGAM\Desktop\dotnet-jenkins-demo\tests\CalculatorApp.Tests\obj\Debug\net8.0\CalculatorApp.Tests.sourcelink.json
